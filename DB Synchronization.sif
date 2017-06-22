@@ -13,7 +13,7 @@
 	   LOCKED="N"
 	   NAME="Autosync"
 	   UI_FREEZE="N"
-	   UPDATED="06/22/2017 17:34:49"
+	   UPDATED="06/22/2017 17:35:39"
 	   UPDATED_BY="DEV1"
 	   CREATED="01/17/2002 01:08:32"
 	   CREATED_BY="SADMIN"
@@ -21,7 +21,7 @@
 		<APPLET
 		   BUSINESS_COMPONENT="Synchronization Parameters"
 		   CLASS="CSSFrame"
-		   COMMENTS="fgdfggfdf"
+		   COMMENTS="fhgfhgfhfghfghgfhfghjf"
 		   DISABLE_DATALOSS_WARNING="N"
 		   HEIGHT="4"
 		   INACTIVE="N"
@@ -39,7 +39,11 @@
 		   UPGRADE_BEHAVIOR="Admin"
 		   WIDTH="2"
 		   OBJECT_LOCKED_BY_NAME="DEV1"
+<<<<<<< HEAD
 		   UPDATED="06/22/2017 17:34:49"
+=======
+		   UPDATED="06/22/2017 17:35:39"
+>>>>>>> branch1
 		   UPDATED_BY="DEV1"
 		   CREATED="09/11/2003 10:14:04"
 		   CREATED_BY="SADMIN">
